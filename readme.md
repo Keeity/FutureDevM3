@@ -1,4 +1,4 @@
-# Semana 10 - Introdução ao Sequelize
+# Módulo 3 - RBAC
 
 ## Rodar o repositório:
 
